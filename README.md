@@ -16,7 +16,7 @@ key 생성방법
  2. cmd 엔터
  3. command 입력 : ssh-keygen -t rsa -C "이메일주소"
  
-이렇게 등록된 키는 %USERPROFILE%\.ssh 경로에 파일로 생성됩니다.
+이렇게 등록된 키는 %USERPROFILE%\\.ssh 경로에 파일로 생성됩니다.
 키 등록은
   1. github 로그인
   2. 우측 상단 자신의 정보를 수정할 수 있는 아이콘 클릭
