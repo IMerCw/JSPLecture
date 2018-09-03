@@ -1,5 +1,5 @@
 # kopo2018
-폴리텍 대학 JSP 프로그래밍 수업을 위한 Git repository 입니다.
+한국폴리텍대학 JSP 프로그래밍 수업을 위한 Git repository 입니다.
 
 # step 1. Git 회원가입.
 github 홈페이지에 회원가입을 합니다.
@@ -28,3 +28,6 @@ key 생성방법
    %USERPROFILE%\\.ssh\\id_rsa.pub 을 메모장으로 연 후 안에 있는 text를 모두 복사하여 붙여 넣습니다.
    
 이렇게 키를 등록하면 해당 pc는 자신이 연결한 git과 연동되어 사용 가능해 집니다.
+
+# git repository 신청
+텔레그램으로 자신이 github에 가입한 이메일을 공유해 주시면 권한을 드릴것입니다.
